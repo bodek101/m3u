@@ -5,11 +5,9 @@ http://79.162.252.91:25100/cgi-bin/mjpg/video.cgi?channel=0&subtype=0
 #EXTINF: -1,Koszalin Morska
 https://cdn-3-go.toya.net.pl/kamery/kosz_morska.m3u8
 #EXTINF:0, Koszalin Park
-https://stream6.nadaje.com:29216/live/dBk1252.stream/chunklist_w276953256.m3u8
+https://kl7.tech5.pl:7998/hls/live.stream.m3u8
 #EXTINF:0, Koszalin Ratusz
-https://stream5.nadaje.com:29214/live/KYT1250.stream/chunklist_w563320629.m3u8
-#EXTINF:0, Koszalin Wodna Dolina
-https://stream6.nadaje.com:29218/live/XTL1253.stream/chunklist_w772066784.m3u8
+https://kl7.tech5.pl:7999/hls/live.stream.m3u8
  
 #EXTINF: -1,Kołobrzeg Latarnia
 https://cdn-3-go.toya.net.pl/kamery/kolo_port.m3u8
