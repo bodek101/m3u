@@ -8,11 +8,11 @@ https://cdn-3-go.toya.net.pl/kamery/kosz_morska.m3u8
 https://kl7.tech5.pl:7998/hls/live.stream.m3u8
 #EXTINF:0, Koszalin Ratusz
 https://kl7.tech5.pl:7999/hls/live.stream.m3u8
-#EXTINF:0, Koszalin Sokoły 1
+#EXTINF:0, Koszalin Sokoly1
 https://53c7d208964cd.streamlock.net/koszalin/kosz1.stream/playlist.m3u8?DVR&tokensendtime=1617306962&tokenshash=QSqYg0u10KrTVCElj-4M2cidvcNX-36lAhSkaob0Yuj8abAqXz5g4PvUnz4zQBdh&tokensstarttime=1617296162
-#EXTINF:0, Koszalin Sokoły 2
+#EXTINF:0, Koszalin Sokoly
 https://533d5794a6ae2.streamlock.net/koszalin/kosz2.stream/playlist.m3u8?tokensendtime=1617303560&tokenshash=1o2Ml-KtOaunWP7T9tH_l8R7zah7NnuDLEeHeg4CyD8_VGHK3j1LZ11e3t-_68S9&tokensstarttime=1617296360#EXTINF:0, Koszalin Sokoły 3
-#EXTINF:0, Koszalin Sokoły 3
+#EXTINF:0, Koszalin Sokoly3
 https://53c7d208964cd.streamlock.net/koszalin/kosz3.stream/playlist.m3u8?DVR&tokensendtime=1617307199&tokenshash=tuNip78BgHrj-VwOPFo9LKwTv2EiapAQAoucQsgvsHnJELewfg--FBwAteua3_sR&tokensstarttime=1617296399
 
 
