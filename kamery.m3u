@@ -9,12 +9,11 @@ https://kl7.tech5.pl:7998/hls/live.stream.m3u8
 #EXTINF:0, Koszalin Ratusz
 https://kl7.tech5.pl:7999/hls/live.stream.m3u8
 #EXTINF:0, Koszalin Sokoly1
-https://53c7d208964cd.streamlock.net/koszalin/kosz1.stream/playlist.m3u8?DVR&tokensendtime=1617306962&tokenshash=QSqYg0u10KrTVCElj-4M2cidvcNX-36lAhSkaob0Yuj8abAqXz5g4PvUnz4zQBdh&tokensstarttime=1617296162
+https://533d5794a6ae2.streamlock.net/koszalin/kosz1.stream/chunklist_w1508386748_tkdG9rZW5zZW5kdGltZT0xNjE3NzM3NjU3JnRva2Vuc2hhc2g9anNjTDBscUVxY19zbU14YUl0YW1VSzE0TUk1ak5ESlRCalZCUjFwRW5qcXpSNWMycmpEQl9CNUZ4RjZlcUJYdSZ0b2tlbnNzdGFydHRpbWU9MTYxNzcyNjg1Nw==.m3u8
 #EXTINF:0, Koszalin Sokoly2
-https://533d5794a6ae2.streamlock.net/koszalin/kosz2.stream/playlist.m3u8?DVR&tokensendtime=1617303560&tokenshash=1o2Ml-KtOaunWP7T9tH_l8R7zah7NnuDLEeHeg4CyD8_VGHK3j1LZ11e3t-_68S9&tokensstarttime=1617296360
+https://53c7d208964cd.streamlock.net/koszalin/kosz2.stream/chunklist_w1363121155_tkdG9rZW5zZW5kdGltZT0xNjE3NzMzOTU4JnRva2Vuc2hhc2g9QTkyeVJKZHo5X1V2bDhIWEVId0ptTVlQNjZ0SlN0dXhxdzlVcjkwOTQxWUM3ZFBmaFU2YnpKa2M2OGZNaE1NQyZ0b2tlbnNzdGFydHRpbWU9MTYxNzcyNjc1OA==.m3u8
 #EXTINF:0, Koszalin Sokoly3
-https://53c7d208964cd.streamlock.net/koszalin/kosz3.stream/playlist.m3u8?DVR&tokensendtime=1617307199&tokenshash=tuNip78BgHrj-VwOPFo9LKwTv2EiapAQAoucQsgvsHnJELewfg--FBwAteua3_sR&tokensstarttime=1617296399
-
+https://53c7d208964cd.streamlock.net/koszalin/kosz3.stream/chunklist_w948744399_tkdG9rZW5zZW5kdGltZT0xNjE3NzM3Njk5JnRva2Vuc2hhc2g9WDJkT3lTbFh1UGRZWlFKTEREMWtqMUtmeEdSWHluOE4xOXdRbWNzd0VURjZ2X1cyU2FULTVvRjRTbGl3bXBLbSZ0b2tlbnNzdGFydHRpbWU9MTYxNzcyNjg5OQ==.m3u8
 
 #EXTINF: -1,Kołobrzeg Latarnia
 https://cdn-3-go.toya.net.pl/kamery/kolo_port.m3u8
