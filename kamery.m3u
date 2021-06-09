@@ -19,9 +19,9 @@ https://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stre
 https://hoktastream2.webcamera.pl/kolobrzeg_cam_c26ccc/kolobrzeg_cam_c26ccc.stream/playlist.m3u8
  
 #EXTINF:0, Darłowo Panorama
-https://edge01.cdn.wolfcloud.pl/lookcam/k6gr3aE5VLQK7jB58GzolZy0kRpqbXPOve1O6xeNmarWgvwJ9d4A23DEMyjwLBpZ/chunks.m3u8
+https://cdn.wolfstream.app/stream/4Jd8K2nQKb5M/manifest.m3u8
 #EXTINF:0, Darłowo Panorama 2
-https://edge01.cdn.wolfcloud.pl/lookcam/kEyb3QVz26xDNJ4KEa80wVXdblAjM7mDaVopWkrPQnBOzY1ZRv9G3Lqgyg04ZLn2/chunks.m3u8
+https://cdn.wolfstream.app/stream/vkd6JOkXJWqN/manifest.m3u88
 #EXTINF:0, Darłowo Plaża
 https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
 #EXTINF:0, Darłowo Plażą wschodnia
