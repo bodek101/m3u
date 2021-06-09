@@ -11,6 +11,8 @@ https://kl7.tech5.pl:7999/hls/live.stream.m3u8
 
 #EXTINF: -1,Kołobrzeg Latarnia
 https://cdn-3-go.toya.net.pl/kamery/kolo_port.m3u8
+#EXTINF: -1,Kołobrzeg Latarnia 2
+https://ls.tkchopin.pl:9043/live/kolobrzeg_port_static.stream/playlist.m3u8
 #EXTINF:0, Kołobrzeg Marina
 https://hoktastream1.webcamera.pl/kolobrzegmarina_cam_967ce0/kolobrzegmarina_cam_967ce0.stream/playlist.m3u8
 #EXTINF:0, Kołobrzeg Molo
